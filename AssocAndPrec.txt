@@ -1,0 +1,47 @@
+Primary
+	[] {x:y} () f(x) new x.y x[y]
+
+Postfix
+	x++ x--
+
+Unary
+	++x --x + - ~ ! delete typeof void
+
+Multiplicative
+	* / %
+
+Additive
+	+ -
+
+Bitwise shift
+	<< >> >>>
+
+Relational
+	< > <= >= instanceof
+
+Equality
+	== != === !==
+
+Bitwise AND
+	&
+
+Bitwise XOR
+	^
+
+Bitwise OR
+	|
+
+Logical AND
+	&&
+
+Logical OR
+	||
+
+Conditional
+	?:
+
+Assignment
+	= *= /= %= += -= <<= >>= >>>= &= ^= |=
+
+Comma
+	, 
